@@ -1,0 +1,9 @@
+.contenedor-imagen{
+    width: 20%;
+}
+img{
+    width: 100%;
+}
+.hv:hover{
+    color: rgb(78, 151, 203);
+}
